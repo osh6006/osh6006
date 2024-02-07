@@ -21,7 +21,7 @@ Junior web front-end developer.
 </span>
 
 ### 📫 Contact Me
-<a href="https://velog.io/@frontendohs">
+<a href="#">
 	<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 <a href="mailto:ohs6006@gmail.com">
